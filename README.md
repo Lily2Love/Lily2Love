@@ -1,6 +1,8 @@
 # <p align="center">"It's not self-hatred anymore. it's apathy"</p>
-<p align="center"><img width="250" height="250" alt="71222e23f36c22ef3580a8fcdf310fc3-removebg-preview" src="https://github.com/user-attachments/assets/22023cce-568f-4f1f-98f1-1989d6777f4b" /><img width="250" height="250" alt="84da55f3894c5aae758e648a6d7603ee-removebg-preview" src="https://github.com/user-attachments/assets/f6246ccf-ba6d-431a-9efb-ce3be76bf737" />
+<p align="center"> 
+ 
 
+<p align="center"><img width="436" height="250" alt="f34978aeb0afa81579f7038ee477d221 webp" src="https://github.com/user-attachments/assets/a22a8db7-22cf-41de-95e8-5b4931c17613" />
 
 
 <p align="center">"Apathy, and a little piece of you in the back of my mind. Like an axe mounted on a wall."
