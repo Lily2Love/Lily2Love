@@ -8,7 +8,7 @@
 
 
 
-<p align="center">"Apathy, and a little piece of you in the back of my mind. Like an axe mounted on a wall."
+<p align="center">"Apathy, and a little piece of you in the back of my mind. Like an axe mounted on a wall.
   
-<p align="center">"apathy to myself, and a tremendous, crushing hatred for you."
+<p align="center">apathy to myself, and a tremendous, crushing hatred for you."
 <p align="right">-Andrew
