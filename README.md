@@ -16,7 +16,8 @@
 <details>
   <summary
    
- $$ \color{#3dad14}{ \ \text{ Made by Andrew }} $$
+ <p align="center">Made by Andrew
+
 
 </summary>
 
