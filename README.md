@@ -12,7 +12,7 @@
    
 <details>
   <summary
-<p align="center"> $$ \color{#f6336d}{ \ \text{ Made by Andrew }} $$
+<p align="center"> Made by Andrew
 </summary>
  
  <p align="center"><a href="https://hits.sh/github.com/Lily2love/"><img alt="Hits" src="https://hits.sh/github.com/Lily2love.svg?label=Plays&color=fcbac8&labelColor=efe6b1"/></a> 
