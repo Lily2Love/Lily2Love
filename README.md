@@ -18,11 +18,3 @@
  <p align="center"><a href="https://hits.sh/github.com/Lily2love/"><img alt="Hits" src="https://hits.sh/github.com/Lily2love.svg?label=Plays&color=fcbac8&labelColor=efe6b1"/></a> 
 
  
-<details>
-  <summary
-<p align="center"> ★
-</summary>
-
-<p align="center">
-  <a href="https://github.com/R3QUI3MSINN3R">art by @R3QUI3MSINN3R on GitHub</a>
-</p>
