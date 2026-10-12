@@ -2,16 +2,18 @@
  
  $$ \color{#f6336d}{ \huge \text{ "It's not self-hatred anymore. it's apathy" }} $$
 
-<p align="center"><img width="300" height="300" alt="71222e23f36c22ef3580a8fcdf310fc3-removebg-preview" src="https://github.com/user-attachments/assets/601c0106-73db-46df-8aab-64d59729e8dc" /> <img width="300" height="300" alt="84da55f3894c5aae758e648a6d7603ee-removebg-preview" src="https://github.com/user-attachments/assets/349c2860-ed96-4794-a611-0a17e082bd5f" />
-
+<p align="center"><img width="550" height="390" alt="Screenshot 2026-05-14 204257" src="https://github.com/user-attachments/assets/753c9184-4d3c-4234-b459-7f5d2d2ebf6c" />
 
 
 
  $$ \color{#f6336d}{ \ \text{ "Apathy, and a little piece of you in the back of my mind. Like an axe mounted on a wall. }} $$
 
    $$ \color{#f6336d}{ \ \text{ apathy to myself, and a tremendous, crushing hatred for you." }} $$
-    <p align="center"><a href="https://hits.sh/github.com/Lily2love/"><img alt="Hits" src="https://hits.sh/github.com/Lily2love.svg?label=Plays&color=fcbac8&labelColor=efe6b1"/></a> 
-
-
-
+   
+<details>
+  <summary
+<p align="center"> $$ \color{#f6336d}{ \ \text{ Made by Andrew }} $$
+</summary>
+ 
+ <p align="center"><a href="https://hits.sh/github.com/Lily2love/"><img alt="Hits" src="https://hits.sh/github.com/Lily2love.svg?label=Plays&color=fcbac8&labelColor=efe6b1"/></a> 
 
